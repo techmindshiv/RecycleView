@@ -13,6 +13,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
+    TextView T1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
