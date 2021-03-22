@@ -12,5 +12,5 @@
         android:id="@+id/rv1">
     </androidx.recyclerview.widget.RecyclerView>
     <TextView>
-
+        text1
 </LinearLayout>
